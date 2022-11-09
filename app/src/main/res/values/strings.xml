@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Delusio</string>
+    <string name="camera_permission">Allow <b>Delusio</b> take and store pictures?</string>
+    <string name="permission_warning">To continue, please enable Camera and Read Write External Storage permission for this application.</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="unknown">Unknown</string>
+</resources>
